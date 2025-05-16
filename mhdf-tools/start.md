@@ -37,7 +37,7 @@ description: 了解梦之工具与如何安装使用
 1. **所有子服**执行单服安装步骤
 2. 配置公共数据库：
    - MySQL（建议5.7+版本）
-   - Redis（建议6.0+版本）
+   - Redis（建议7.0+版本）
 3. 根据群组端类型下载对应插件：
    - BungeeCord → `MHDF-Tools-Bungee`
    - Velocity → `MHDF-Tools-Velocity`
